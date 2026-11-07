@@ -1,0 +1,956 @@
+{
+  "pages": {
+    "home": {
+      "title": "Tatti Cookies",
+      "textLength": 1729,
+      "links": [
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "0",
+          "href": "https://tatticookies.com/cart"
+        },
+        {
+          "text": "Home",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Shop",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://tatticookies.com/pages/faq"
+        },
+        {
+          "text": "Contact",
+          "href": "https://tatticookies.com/pages/contact"
+        },
+        {
+          "text": "Login / Register",
+          "href": "https://tatticookies.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "ORDER NOW",
+          "href": "https://tatticookies.com/pages/build-your-box"
+        },
+        {
+          "text": "BUILD YOUR BOX",
+          "href": "https://tatticookies.com/pages/build-your-box"
+        },
+        {
+          "text": "ORDER YOUR BOX",
+          "href": "https://tatticookies.com/pages/build-your-box"
+        },
+        {
+          "text": "PECAN DULCE",
+          "href": "https://tatticookies.com/products/pecan-dulce-1"
+        },
+        {
+          "text": "KINDER HAZELNUT",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut-copy"
+        },
+        {
+          "text": "FERRERO HAZELNUT",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut"
+        },
+        {
+          "text": "RED VELVET NUTELLA SMORES",
+          "href": "https://tatticookies.com/products/red-velvet-oreo"
+        },
+        {
+          "text": "PISTACHIO WHITE",
+          "href": "https://tatticookies.com/products/pistachio-white"
+        },
+        {
+          "text": "BISCOFF CREAM",
+          "href": "https://tatticookies.com/products/biscoff-cream"
+        },
+        {
+          "text": "CHOCOLATE CHUNK",
+          "href": "https://tatticookies.com/products/chocolate-chunk"
+        },
+        {
+          "text": "DUBAI PISTACHIO",
+          "href": "https://tatticookies.com/products/dubai-pistachio"
+        },
+        {
+          "text": "EXPLORE OUR COOKIES",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://tatticookies.com/policies/privacy-policy"
+        },
+        {
+          "text": "Refund policy",
+          "href": "https://tatticookies.com/policies/refund-policy"
+        },
+        {
+          "text": "Shipping policy",
+          "href": "https://tatticookies.com/policies/shipping-policy"
+        },
+        {
+          "text": "Food Allergen Disclaimer",
+          "href": "https://tatticookies.com/pages/food-allergen-disclaimer"
+        },
+        {
+          "text": "hello@tatticookies.com",
+          "href": "mailto:hello@tatticookies.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/tatticookies/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@tatticookies"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7.png?v=1792569176&width=700",
+          "alt": "Pecan Dulce"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/3_16b2268e-cd52-4c46-9e5b-dbbbed6650fe.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/5.png?v=1792569207&width=700",
+          "alt": "Kinder Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/1_01341128-f27a-41cd-a100-06eb9e07614f.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/BrownWhiteandGreenIllustratedCookieInstagramPost11.png?v=1792270523&width=700",
+          "alt": "Ferrero Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/Brown_White_and_Green_Illustrated_Cookie_Instagram_Post_10.png?v=1792270113&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/2.png?v=1792569245&width=700",
+          "alt": "Red Velvet Nutella Smores"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/5_31a2d1bc-71e9-40f9-9a46-127d6277c38c.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/6.png?v=1792569259&width=700",
+          "alt": "Pistachio White"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/6_704d9664-1366-4bca-90ed-e32b3cf12e62.png?v=1792615671&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/3.png?v=1792569259&width=700",
+          "alt": "Biscoff Cream"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/4_d9e348c9-28c2-4268-a563-1c3d9ddb50b8.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/1.png?v=1792569259&width=700",
+          "alt": "Chocolate Chunk"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7_c4e825fa-7ee4-466e-bb9f-355fa6b8be9a.png?v=1792615670&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/4.png?v=1792569259&width=700",
+          "alt": "Dubai Pistachio"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/2_4dc9fa68-dc84-4d3d-8aaf-4de9e5d6a0f7.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        }
+      ],
+      "buttons": [
+        "",
+        "✕",
+        "‹",
+        "›",
+        "SUBSCRIBE"
+      ],
+      "textSample": "0\nCAREFULLY MADE. PERFECTLY BAKED.\nORDER NOW\nDROP IS OPEN\nOrders close Friday 12 PM\n02\ndays\n00\nhrs\n08\nmin\n01\nsec\n\nBUILD YOUR BOX\n\nHOW TO ORDER\nReal ingredients\nmade from scratch\nHandmade in the USA\nFreshly made to order\nORDER YOUR BOX\nBuild a box of 4, 6 or 10 cookies.\nOrder while the drop is open: Monday 12 PM to Friday 12 PM.\nPick up Saturday 11 AM to 2 PM, or get it by mail in Texas (ships Monday).\nLimited boxes each week: small batch, one woman operated.\nNEW DROP EVERY MONDAY 12PM • ORDERS C"
+    },
+    "flavors": {
+      "title": "Flavors | Tatti Cookies",
+      "textLength": 559,
+      "links": [
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "0",
+          "href": "https://tatticookies.com/cart"
+        },
+        {
+          "text": "Home",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Shop",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://tatticookies.com/pages/faq"
+        },
+        {
+          "text": "Contact",
+          "href": "https://tatticookies.com/pages/contact"
+        },
+        {
+          "text": "Login / Register",
+          "href": "https://tatticookies.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "BOX OF 4\n$24",
+          "href": "https://tatticookies.com/pages/build-your-box?size=4"
+        },
+        {
+          "text": "BOX OF 6\n$36",
+          "href": "https://tatticookies.com/pages/build-your-box?size=6"
+        },
+        {
+          "text": "BOX OF 10\n$58",
+          "href": "https://tatticookies.com/pages/build-your-box?size=10"
+        },
+        {
+          "text": "PECAN DULCE\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/pecan-dulce-1"
+        },
+        {
+          "text": "KINDER HAZELNUT\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut-copy"
+        },
+        {
+          "text": "FERRERO HAZELNUT\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut"
+        },
+        {
+          "text": "RED VELVET NUTELLA SMORES\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/red-velvet-oreo"
+        },
+        {
+          "text": "PISTACHIO WHITE\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/pistachio-white"
+        },
+        {
+          "text": "BISCOFF CREAM\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/biscoff-cream"
+        },
+        {
+          "text": "CHOCOLATE CHUNK\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/chocolate-chunk"
+        },
+        {
+          "text": "DUBAI PISTACHIO\nBUILD A BOX",
+          "href": "https://tatticookies.com/products/dubai-pistachio"
+        },
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://tatticookies.com/policies/privacy-policy"
+        },
+        {
+          "text": "Refund policy",
+          "href": "https://tatticookies.com/policies/refund-policy"
+        },
+        {
+          "text": "Shipping policy",
+          "href": "https://tatticookies.com/policies/shipping-policy"
+        },
+        {
+          "text": "Food Allergen Disclaimer",
+          "href": "https://tatticookies.com/pages/food-allergen-disclaimer"
+        },
+        {
+          "text": "hello@tatticookies.com",
+          "href": "mailto:hello@tatticookies.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/tatticookies/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@tatticookies"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7.png?v=1792569176&width=700",
+          "alt": "Pecan Dulce"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/3_16b2268e-cd52-4c46-9e5b-dbbbed6650fe.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/5.png?v=1792569207&width=700",
+          "alt": "Kinder Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/1_01341128-f27a-41cd-a100-06eb9e07614f.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/BrownWhiteandGreenIllustratedCookieInstagramPost11.png?v=1792270523&width=700",
+          "alt": "Ferrero Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/Brown_White_and_Green_Illustrated_Cookie_Instagram_Post_10.png?v=1792270113&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/2.png?v=1792569245&width=700",
+          "alt": "Red Velvet Nutella Smores"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/5_31a2d1bc-71e9-40f9-9a46-127d6277c38c.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/6.png?v=1792569259&width=700",
+          "alt": "Pistachio White"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/6_704d9664-1366-4bca-90ed-e32b3cf12e62.png?v=1792615671&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/3.png?v=1792569259&width=700",
+          "alt": "Biscoff Cream"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/4_d9e348c9-28c2-4268-a563-1c3d9ddb50b8.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/1.png?v=1792569259&width=700",
+          "alt": "Chocolate Chunk"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7_c4e825fa-7ee4-466e-bb9f-355fa6b8be9a.png?v=1792615670&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/4.png?v=1792569259&width=700",
+          "alt": "Dubai Pistachio"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/2_4dc9fa68-dc84-4d3d-8aaf-4de9e5d6a0f7.png?v=1792615672&width=700",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        }
+      ],
+      "buttons": [
+        "",
+        "✕"
+      ],
+      "textSample": "0\nFLAVORS\n\nCookies come in boxes of 4, 6 or 10. Pick your box size, then pick flavors.\n\nBOX OF 4\n$24\nBOX OF 6\n$36\nBOX OF 10\n$58\nPECAN DULCE\nBUILD A BOX\nKINDER HAZELNUT\nBUILD A BOX\nFERRERO HAZELNUT\nBUILD A BOX\nRED VELVET NUTELLA SMORES\nBUILD A BOX\nPISTACHIO WHITE\nBUILD A BOX\nBISCOFF CREAM\nBUILD A BOX\nCHOCOLATE CHUNK\nBUILD A BOX\nDUBAI PISTACHIO\nBUILD A BOX\n\n© 2026 Tatti Cookies. All rights reserved.\n\nPrivacy policy • Refund policy • Shipping policy • Food Allergen Disclaimer\n\nMade in a home kitche"
+    },
+    "product": {
+      "title": "Pecan Dulce | Tatti Cookies",
+      "textLength": 399,
+      "links": [
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "0",
+          "href": "https://tatticookies.com/cart"
+        },
+        {
+          "text": "Home",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Shop",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://tatticookies.com/pages/faq"
+        },
+        {
+          "text": "Contact",
+          "href": "https://tatticookies.com/pages/contact"
+        },
+        {
+          "text": "Login / Register",
+          "href": "https://tatticookies.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "BUILD A BOX",
+          "href": "https://tatticookies.com/pages/build-your-box?flavor=pecan-dulce-1"
+        },
+        {
+          "text": "KINDER HAZELNUT",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut-copy"
+        },
+        {
+          "text": "FERRERO HAZELNUT",
+          "href": "https://tatticookies.com/products/espresso-toffee-walnut"
+        },
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://tatticookies.com/policies/privacy-policy"
+        },
+        {
+          "text": "Refund policy",
+          "href": "https://tatticookies.com/policies/refund-policy"
+        },
+        {
+          "text": "Shipping policy",
+          "href": "https://tatticookies.com/policies/shipping-policy"
+        },
+        {
+          "text": "Food Allergen Disclaimer",
+          "href": "https://tatticookies.com/pages/food-allergen-disclaimer"
+        },
+        {
+          "text": "hello@tatticookies.com",
+          "href": "mailto:hello@tatticookies.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/tatticookies/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@tatticookies"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7.png?v=1792569176&width=900",
+          "alt": "Pecan Dulce"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/7.png?v=1792569176&width=200",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/3_16b2268e-cd52-4c46-9e5b-dbbbed6650fe.png?v=1792615672&width=200",
+          "alt": ""
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/5.png?v=1792569207&width=700",
+          "alt": "Kinder Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/files/BrownWhiteandGreenIllustratedCookieInstagramPost11.png?v=1792270523&width=700",
+          "alt": "Ferrero Hazelnut"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        }
+      ],
+      "buttons": [
+        "",
+        "✕",
+        "",
+        ""
+      ],
+      "textSample": "0\nPECAN DULCE\n\nFrom $24\n\nvanilla cookie | dark & milk chocolate | toasted pecans | dulce de leche\n\nBUILD A BOX\nALLERGENS\nSTORAGE\nPICKUP & SHIPPING\nRELATED PRODUCTS\nKINDER HAZELNUT\nFERRERO HAZELNUT\n\n© 2026 Tatti Cookies. All rights reserved.\n\nPrivacy policy • Refund policy • Shipping policy • Food Allergen Disclaimer\n\nMade in a home kitchen under the Texas Cottage Food Law.\n\nhello@tatticookies.com"
+    },
+    "allergen": {
+      "title": "Food Allergen Disclaimer | Tatti Cookies",
+      "textLength": 1020,
+      "links": [
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "0",
+          "href": "https://tatticookies.com/cart"
+        },
+        {
+          "text": "Home",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Shop",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://tatticookies.com/pages/faq"
+        },
+        {
+          "text": "Contact",
+          "href": "https://tatticookies.com/pages/contact"
+        },
+        {
+          "text": "Login / Register",
+          "href": "https://tatticookies.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://tatticookies.com/policies/privacy-policy"
+        },
+        {
+          "text": "Refund policy",
+          "href": "https://tatticookies.com/policies/refund-policy"
+        },
+        {
+          "text": "Shipping policy",
+          "href": "https://tatticookies.com/policies/shipping-policy"
+        },
+        {
+          "text": "Food Allergen Disclaimer",
+          "href": "https://tatticookies.com/pages/food-allergen-disclaimer"
+        },
+        {
+          "text": "hello@tatticookies.com",
+          "href": "mailto:hello@tatticookies.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/tatticookies/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@tatticookies"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        }
+      ],
+      "buttons": [
+        "",
+        "✕"
+      ],
+      "textSample": "0\nFOOD ALLERGEN DISCLAIMER\n\nAt Tatti Cookies we want you to know what is in your cookies.\n\nWhat our cookies contain\n\nAll of our cookies contain wheat, milk, egg and soy. Several flavors also contain tree nuts, such as pistachio, pecan, walnut and hazelnut. The ingredients of each flavor are listed on its product page.\n\n\nCross-contact\n\nOur cookies are made in a home kitchen under the Texas Cottage Food Law. The same kitchen handles nuts and other common allergens. Even with careful cleaning, we c"
+    },
+    "cart": {
+      "title": "Your Shopping Cart | Tatti Cookies",
+      "textLength": 251,
+      "links": [
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "0",
+          "href": "https://tatticookies.com/cart"
+        },
+        {
+          "text": "Home",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Shop",
+          "href": "https://tatticookies.com/collections/flavors"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://tatticookies.com/pages/faq"
+        },
+        {
+          "text": "Contact",
+          "href": "https://tatticookies.com/pages/contact"
+        },
+        {
+          "text": "Login / Register",
+          "href": "https://tatticookies.com/customer_authentication/redirect?locale=en&region_country=US"
+        },
+        {
+          "text": "Build a box",
+          "href": "https://tatticookies.com/pages/build-your-box"
+        },
+        {
+          "text": "",
+          "href": "https://tatticookies.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://tatticookies.com/policies/privacy-policy"
+        },
+        {
+          "text": "Refund policy",
+          "href": "https://tatticookies.com/policies/refund-policy"
+        },
+        {
+          "text": "Shipping policy",
+          "href": "https://tatticookies.com/policies/shipping-policy"
+        },
+        {
+          "text": "Food Allergen Disclaimer",
+          "href": "https://tatticookies.com/pages/food-allergen-disclaimer"
+        },
+        {
+          "text": "hello@tatticookies.com",
+          "href": "mailto:hello@tatticookies.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/tatticookies/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@tatticookies"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        },
+        {
+          "src": "https://tatticookies.com/cdn/shop/t/25/assets/logo.png?v=150660206010406778221793646634",
+          "alt": "Tatti Cookies"
+        }
+      ],
+      "buttons": [
+        "",
+        "✕"
+      ],
+      "textSample": "0\nYOUR BASKET\n\nYour basket is empty. Build a box\n\n© 2026 Tatti Cookies. All rights reserved.\n\nPrivacy policy • Refund policy • Shipping policy • Food Allergen Disclaimer\n\nMade in a home kitchen under the Texas Cottage Food Law.\n\nhello@tatticookies.com"
+    }
+  },
+  "links": [],
+  "consoleErrors": [
+    {
+      "page": "home",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    }
+  ],
+  "accessibilityIssues": [
+    {
+      "page": "home",
+      "issues": [
+        {
+          "element": "BUTTON",
+          "text": "Open menu",
+          "width": 42,
+          "height": 24,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "0",
+          "width": 44.125,
+          "height": 26,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Privacy policy",
+          "width": 92.28125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Refund policy",
+          "width": 90.5625,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Shipping policy",
+          "width": 101.328125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Food Allergen Discla",
+          "width": 164.828125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "hello@tatticookies.c",
+          "width": 154.3125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        }
+      ]
+    },
+    {
+      "page": "flavors",
+      "issues": [
+        {
+          "element": "BUTTON",
+          "text": "Open menu",
+          "width": 42,
+          "height": 24,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "0",
+          "width": 44.125,
+          "height": 26,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Privacy policy",
+          "width": 92.28125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Refund policy",
+          "width": 90.5625,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Shipping policy",
+          "width": 101.328125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Food Allergen Discla",
+          "width": 164.828125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "hello@tatticookies.c",
+          "width": 154.3125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        }
+      ]
+    },
+    {
+      "page": "product",
+      "issues": [
+        {
+          "element": "BUTTON",
+          "text": "Open menu",
+          "width": 42,
+          "height": 24,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "0",
+          "width": 44.125,
+          "height": 26,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Privacy policy",
+          "width": 92.28125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Refund policy",
+          "width": 90.5625,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Shipping policy",
+          "width": 101.328125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Food Allergen Discla",
+          "width": 164.828125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "hello@tatticookies.c",
+          "width": 154.3125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        }
+      ]
+    },
+    {
+      "page": "allergen",
+      "issues": [
+        {
+          "element": "BUTTON",
+          "text": "Open menu",
+          "width": 42,
+          "height": 24,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "0",
+          "width": 44.125,
+          "height": 26,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Privacy policy",
+          "width": 92.28125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Refund policy",
+          "width": 90.5625,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Shipping policy",
+          "width": 101.328125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Food Allergen Discla",
+          "width": 164.828125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "hello@tatticookies.c",
+          "width": 154.3125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        }
+      ]
+    },
+    {
+      "page": "cart",
+      "issues": [
+        {
+          "element": "BUTTON",
+          "text": "Open menu",
+          "width": 42,
+          "height": 24,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "0",
+          "width": 44.125,
+          "height": 26,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Build a box",
+          "width": 90.359375,
+          "height": 20,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Privacy policy",
+          "width": 92.28125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Refund policy",
+          "width": 90.5625,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Shipping policy",
+          "width": 101.328125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "Food Allergen Discla",
+          "width": 164.828125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        },
+        {
+          "element": "A",
+          "text": "hello@tatticookies.c",
+          "width": 154.3125,
+          "height": 17,
+          "issue": "Small tap target (<32px)"
+        }
+      ]
+    }
+  ]
+}
