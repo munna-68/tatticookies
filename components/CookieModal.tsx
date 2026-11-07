@@ -13,7 +13,7 @@ export default function CookieModal() {
   const currentCount = selectedFlavors[activeModalCookie.id] || 0;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 overflow-y-auto">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 overflow-y-auto" data-lenis-prevent>
       {/* Backdrop */}
       <div
         className="fixed inset-0 bg-ink/60 backdrop-blur-[2px] animate-[fade-in_0.3s_ease-out]"

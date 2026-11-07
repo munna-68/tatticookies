@@ -7,6 +7,7 @@ import Footer from '@/components/Footer';
 import CartDrawer from '@/components/CartDrawer';
 import CookieModal from '@/components/CookieModal';
 import ToastContainer from '@/components/ToastContainer';
+import SmoothScroll from '@/components/SmoothScroll';
 
 const display = Lilita_One({ subsets: ['latin'], weight: '400', variable: '--font-display', display: 'swap' });
 const sans = Outfit({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
@@ -29,14 +30,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script dangerouslySetInnerHTML={{ __html: bootScript }} />
       </head>
       <body className="min-h-screen flex flex-col bg-ground text-ink">
-        <CartProvider>
-          <Navbar />
-          <main className="flex-1">{children}</main>
-          <Footer />
-          <CartDrawer />
-          <CookieModal />
-          <ToastContainer />
-        </CartProvider>
+        <SmoothScroll>
+          <CartProvider>
+            <Navbar />
+            <main className="flex-1">{children}</main>
+            <Footer />
+            <CartDrawer />
+            <CookieModal />
+            <ToastContainer />
+          </CartProvider>
+        </SmoothScroll>
       </body>
     </html>
   );

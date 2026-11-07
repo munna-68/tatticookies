@@ -46,7 +46,7 @@ export default function CartDrawer() {
   };
 
   return (
-    <div className="fixed inset-0 z-50 overflow-hidden">
+    <div className="fixed inset-0 z-50 overflow-hidden" data-lenis-prevent>
       {/* Backdrop */}
       <div
         className="absolute inset-0 bg-ink/55 backdrop-blur-[2px] animate-[fade-in_0.3s_ease-out]"
